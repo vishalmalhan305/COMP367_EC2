@@ -1,1 +1,2 @@
 # COMP367_EC2
+Updated README
